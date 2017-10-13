@@ -12,7 +12,7 @@ Add the hover/active effects to your menu items
 html{
     font-size: 16px;
     line-height: 1.6;
-    /* ADD the Google sans-serif font to this font stack */
+    /* ADD the Google sans-serif font to this font stack. */
     font-family: helvetica, arial, "Raleway", sans-serif;
 }
 html, body{
